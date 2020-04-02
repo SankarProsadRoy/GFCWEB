@@ -1,0 +1,10 @@
+git init
+touch filename  for add new file
+
+git add file name
+
+git commit -m "message"
+
+git remote add origin https://github.com/SankarProsadRoy/GFCWEB.git
+
+git push -f origin master
